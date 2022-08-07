@@ -1,0 +1,15 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "847fe7c8f6d4d7a0c93146ef8a7bd262",
+    "name" : "场次管理",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 4
+    }
+  } ]
+}

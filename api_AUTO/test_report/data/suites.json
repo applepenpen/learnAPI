@@ -1,0 +1,116 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_cases",
+    "children" : [ {
+      "name" : "test_round",
+      "children" : [ {
+        "name" : "Test_round",
+        "children" : [ {
+          "name" : "test_logout_success",
+          "uid" : "32ac4e128062761c",
+          "parentUid" : "5a5d2893e64928d8c24ae1844fed51da",
+          "status" : "broken",
+          "time" : {
+            "start" : 1659235163759,
+            "stop" : 1659235163759,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_round_num",
+          "uid" : "4f76db1efec6869e",
+          "parentUid" : "5a5d2893e64928d8c24ae1844fed51da",
+          "status" : "passed",
+          "time" : {
+            "start" : 1659711328299,
+            "stop" : 1659711328779,
+            "duration" : 480
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "场次列表筛选接口测试",
+          "uid" : "3bd6a652a9a05f42",
+          "parentUid" : "5a5d2893e64928d8c24ae1844fed51da",
+          "status" : "passed",
+          "time" : {
+            "start" : 1659711328783,
+            "stop" : 1659711329129,
+            "duration" : 346
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'data': {'roundName': 'test', 'auctionMode': '77', 'roundStatus': '11', 'pageIndex': 1, 'pageSize': 20, 'roundConfigType': 0, 'auctionModes': []}, 'expect': 'success', 'title': '查询现场拍'}" ]
+        }, {
+          "name" : "场次列表筛选接口测试",
+          "uid" : "135b6594a374aa4d",
+          "parentUid" : "5a5d2893e64928d8c24ae1844fed51da",
+          "status" : "passed",
+          "time" : {
+            "start" : 1659711329133,
+            "stop" : 1659711329501,
+            "duration" : 368
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'data': {'auctionMode': '77', 'roundStatus': '11', 'pageIndex': 1, 'pageSize': 20, 'roundConfigType': 0, 'auctionModes': []}, 'expect': 'success', 'title': '查询暗拍'}" ]
+        }, {
+          "name" : "根据roundID获取场次详情",
+          "uid" : "1ec4de5cc5165c7b",
+          "parentUid" : "5a5d2893e64928d8c24ae1844fed51da",
+          "status" : "broken",
+          "time" : {
+            "start" : 1659711329504,
+            "stop" : 1659711329735,
+            "duration" : 231
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5a5d2893e64928d8c24ae1844fed51da"
+      } ],
+      "uid" : "8868e5b75e1f4a78d07e32050a1f33a8"
+    }, {
+      "name" : "test_yanl",
+      "children" : [ {
+        "name" : "Test",
+        "children" : [ {
+          "name" : "test_data[testdata0]",
+          "uid" : "347a88e0aca7fcf7",
+          "parentUid" : "7a39f406cf1d84257b80aa6501bbfc27",
+          "status" : "passed",
+          "time" : {
+            "start" : 1659711329781,
+            "stop" : 1659711329781,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'data': {'roundName': 'test', 'auctionMode': '77', 'roundStatus': '11', 'pageIndex': 1, 'pageSize': 20, 'roundConfigType': 0, 'auctionModes': []}, 'expect': 'success', 'title': '查询现场拍'}" ]
+        }, {
+          "name" : "test_data[testdata1]",
+          "uid" : "c7bdc725bbfc3e84",
+          "parentUid" : "7a39f406cf1d84257b80aa6501bbfc27",
+          "status" : "passed",
+          "time" : {
+            "start" : 1659711329783,
+            "stop" : 1659711329783,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'data': {'auctionMode': '77', 'roundStatus': '11', 'pageIndex': 1, 'pageSize': 20, 'roundConfigType': 0, 'auctionModes': []}, 'expect': 'success', 'title': '查询暗拍'}" ]
+        } ],
+        "uid" : "7a39f406cf1d84257b80aa6501bbfc27"
+      } ],
+      "uid" : "8b03ef0efb9e2c6e2831865d08705b9f"
+    } ],
+    "uid" : "10075452c99ff4a1bfbce955ca922247"
+  } ]
+}

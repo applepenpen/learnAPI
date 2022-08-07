@@ -1,0 +1,8 @@
+add_params:
+  args: a,b,expect
+  argvalues:
+    - [1,1,2]
+    - [2,3,4]
+  ids :
+    - test1
+    - test2

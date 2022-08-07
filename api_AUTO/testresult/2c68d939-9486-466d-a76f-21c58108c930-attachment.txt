@@ -1,0 +1,2 @@
+DEBUG    urllib3.connectionpool:connectionpool.py:1001 Starting new HTTPS connection (1): npi.cheyipai.com:443
+DEBUG    urllib3.connectionpool:connectionpool.py:456 https://npi.cheyipai.com:443 "POST /auction/core/auctionRoundApi/queryPage.json HTTP/1.1" 200 172

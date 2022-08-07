@@ -1,0 +1,9 @@
+round:
+    - data: { "roundName": "test","auctionMode": "77","roundStatus": "11","pageIndex": 1,"pageSize": 20,"roundConfigType": 0,"auctionModes": [ ] }
+      expect: success
+      title: 查询现场拍
+    - data: { "auctionMode": "77","roundStatus": "11","pageIndex": 1,"pageSize": 20,"roundConfigType": 0,"auctionModes": [ ] }
+      expect: success
+      title : 查询暗拍
+
+

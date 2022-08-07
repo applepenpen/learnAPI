@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('self', <SubRequest 'get_token' for <TestCaseFunction test_logout_success>>)",
+      "children" : [ {
+        "name" : "test_logout_success",
+        "uid" : "32ac4e128062761c",
+        "parentUid" : "7044e7f1df4c33f6e1a7391b7c0ef8e6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659235163759,
+          "stop" : 1659235163759,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7044e7f1df4c33f6e1a7391b7c0ef8e6"
+    }, {
+      "name" : "AttributeError: 'Test_round' object has no attribute 'token'",
+      "children" : [ {
+        "name" : "根据roundID获取场次详情",
+        "uid" : "1ec4de5cc5165c7b",
+        "parentUid" : "a8114d8f35eb88f28fd1e277675ef45c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1659711329504,
+          "stop" : 1659711329735,
+          "duration" : 231
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a8114d8f35eb88f28fd1e277675ef45c"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

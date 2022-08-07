@@ -1,0 +1,3 @@
+  需要启动selenium server
+  java -jar selenium-server-standalone-3.9.1.jar role node
+  java -jar selenium-server-4.3.0.jar  hub

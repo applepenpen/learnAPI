@@ -1,0 +1,41 @@
+
+#登录页面元素定位
+login_user_loc:
+      - element_info: //input[@id="username"]
+        find_type: BY.XPATH
+        operate_type: click
+        info: 打开登录框
+login_password_loc:
+      - element_info: //input[@id="password"]
+        find_type: BY.XPATH
+        operate_type: click
+        info: 单击密码框
+login_loc:
+      - element_info: //input[@id="submit-btn"]
+        find_type: BY.XPATH
+        operate_type: click
+        info: 单击登录按钮
+error_loc:
+      - element_info: //div[@class="login-error-wrap"]/span
+        find_type: BY.XPATH
+        info: 账号密码错误
+login_success:
+      - element_info: //span[contains(text(),"店铺入驻协议确认")]
+        find_type: BY.XPATH
+        info: 登录成功
+checkbox_loc:
+      - element_info: //input[@class="ant-checkbox-input"]
+        find_type: BY.XPATH
+        info:  签署入住协议
+confirm_button_loc :
+      - element_info: //button/span[contains(text(),"信息有误")]/ancestor::button
+        find_type: BY.XPATH
+        info:  点击按钮信息有误
+close_button:
+      - element_info: //button/span[contains(text(),"知道了")]/ancestor::button
+        find_type: BY.XPATH
+        info:  我知道了按钮点击
+success_loc:
+      - element_info: //a[@class="user ant-dropdown-trigger"]
+        find_type: BY.XPATH
+        info: 登录成功

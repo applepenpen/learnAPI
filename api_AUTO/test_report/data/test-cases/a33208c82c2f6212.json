@@ -1,0 +1,87 @@
+{
+  "uid" : "a33208c82c2f6212",
+  "name" : "test_data[testdata1]",
+  "fullName" : "test_cases.test_yanl.Test#test_data",
+  "historyId" : "f67cf0e9fabad675e9e00fe3d44d0bba",
+  "time" : {
+    "start" : 1659711103876,
+    "stop" : 1659711103876,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "get_token",
+    "time" : {
+      "start" : 1659711103873,
+      "stop" : 1659711103873,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "get_token::0",
+    "time" : {
+      "start" : 1659711103876,
+      "stop" : 1659711103876,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_yanl"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test"
+  }, {
+    "name" : "host",
+    "value" : "186590e05d27"
+  }, {
+    "name" : "thread",
+    "value" : "36343-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_yanl"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "testdata",
+    "value" : "{'data': {'auctionMode': '77', 'roundStatus': '11', 'pageIndex': 1, 'pageSize': 20, 'roundConfigType': 0, 'auctionModes': []}, 'expect': 'success', 'title': '查询暗拍'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a33208c82c2f6212.json",
+  "parameterValues" : [ "{'data': {'auctionMode': '77', 'roundStatus': '11', 'pageIndex': 1, 'pageSize': 20, 'roundConfigType': 0, 'auctionModes': []}, 'expect': 'success', 'title': '查询暗拍'}" ]
+}

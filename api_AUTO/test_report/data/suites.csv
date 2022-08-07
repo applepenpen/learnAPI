@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Aug 05 22:55:29 CST 2022","Fri Aug 05 22:55:29 CST 2022","0","test_cases","test_yanl","Test","","","test_data[testdata1]",""
+"broken","Sun Jul 31 10:39:23 CST 2022","Sun Jul 31 10:39:23 CST 2022","0","test_cases","test_round","Test_round","","","test_logout_success",""
+"passed","Fri Aug 05 22:55:28 CST 2022","Fri Aug 05 22:55:28 CST 2022","480","test_cases","test_round","Test_round","","","test_round_num",""
+"passed","Fri Aug 05 22:55:28 CST 2022","Fri Aug 05 22:55:29 CST 2022","346","test_cases","test_round","Test_round","","","场次列表筛选接口测试",""
+"passed","Fri Aug 05 22:55:29 CST 2022","Fri Aug 05 22:55:29 CST 2022","368","test_cases","test_round","Test_round","","","场次列表筛选接口测试",""
+"broken","Fri Aug 05 22:55:29 CST 2022","Fri Aug 05 22:55:29 CST 2022","231","test_cases","test_round","Test_round","","","根据roundID获取场次详情",""
+"passed","Fri Aug 05 22:55:29 CST 2022","Fri Aug 05 22:55:29 CST 2022","0","test_cases","test_yanl","Test","","","test_data[testdata0]",""

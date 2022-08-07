@@ -1,0 +1,24 @@
+{
+  "roundnum1": {
+    "auctionMode":"1",
+    "roundStatus":"",
+    "pageIndex":1,
+    "pageSize":20,
+    "roundConfigType":0,
+    "auctionModes":[
+
+    ]
+},
+  "roundnum2": {
+    "auctionMode":"1001",
+    "roundStatus":"",
+    "pageIndex":1,
+    "pageSize":20,
+    "roundConfigType":0,
+    "auctionModes":[
+
+    ]
+},
+  "roundid":{"roundId":"513485081367158784"}
+
+}

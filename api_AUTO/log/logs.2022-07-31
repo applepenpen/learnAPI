@@ -1,0 +1,332 @@
+2022-07-30 16:30:07,292 - logs... - INFO - Start print log
+2022-07-30 16:30:07,292 - logs... - DEBUG - Do something
+2022-07-30 16:30:07,293 - logs... - WARNING - Something maybe fail.
+2022-07-30 16:30:07,293 - logs... - INFO - Finish
+2022-07-30 16:31:03,587 - logs... - INFO - Start print log
+2022-07-30 16:31:03,587 - logs... - DEBUG - Do something
+2022-07-30 16:31:03,587 - logs... - WARNING - Something maybe fail.
+2022-07-30 16:31:03,587 - logs... - INFO - Finish
+2022-07-30 16:35:23,744 - logs... - INFO - Start print log
+2022-07-30 16:35:23,745 - logs... - DEBUG - Do something
+2022-07-30 16:35:23,745 - logs... - WARNING - Something maybe fail.
+2022-07-30 16:35:23,746 - logs... - INFO - Finish
+2022-07-30 16:37:56,591 - logs... - INFO - Start print log
+2022-07-30 16:37:56,592 - logs... - DEBUG - Do something
+2022-07-30 16:37:56,592 - logs... - WARNING - Something maybe fail.
+2022-07-30 16:37:56,592 - logs... - INFO - Finish
+2022-07-30 16:38:53,035 - logs... - INFO - Start print log
+2022-07-30 16:38:53,036 - logs... - DEBUG - Do something
+2022-07-30 16:38:53,036 - logs... - WARNING - Something maybe fail.
+2022-07-30 16:38:53,036 - logs... - INFO - Finish
+2022-07-30 16:40:15,916 - logs... - INFO - Start print log
+2022-07-30 16:40:15,916 - logs... - DEBUG - Do something
+2022-07-30 16:40:15,916 - logs... - WARNING - Something maybe fail.
+2022-07-30 16:40:15,916 - logs... - INFO - Finish
+2022-07-31 07:58:01,864 - logs... - INFO - Start print log
+2022-07-31 07:58:01,865 - logs... - DEBUG - Do something
+2022-07-31 07:58:01,865 - logs... - WARNING - Something maybe fail.
+2022-07-31 07:58:01,865 - logs... - INFO - Finish
+2022-07-31 07:58:02,027 - logs... - INFO - zip report name:20220731_075802api_report.zip
+2022-07-31 07:58:02,027 - logs... - INFO - xml report path:/Users/fumengjiao/work/python3_10/api_AUTO/allure-report
+2022-07-31 07:58:35,157 - logs... - INFO - Start print log
+2022-07-31 07:58:35,158 - logs... - DEBUG - Do something
+2022-07-31 07:58:35,158 - logs... - WARNING - Something maybe fail.
+2022-07-31 07:58:35,158 - logs... - INFO - Finish
+2022-07-31 07:58:35,241 - logs... - INFO - zip report name:20220731_075835api_report.zip
+2022-07-31 07:58:35,241 - logs... - INFO - xml report path:/Users/fumengjiao/work/python3_10/api_AUTO/allure-report
+2022-07-31 07:59:34,785 - logs... - INFO - Start print log
+2022-07-31 07:59:34,785 - logs... - DEBUG - Do something
+2022-07-31 07:59:34,785 - logs... - WARNING - Something maybe fail.
+2022-07-31 07:59:34,786 - logs... - INFO - Finish
+2022-07-31 07:59:34,871 - logs... - INFO - zip report name:20220731_075934api_report.zip
+2022-07-31 07:59:34,871 - logs... - INFO - xml report path:/Users/fumengjiao/work/python3_10/api_AUTO/allure-report
+2022-07-31 08:05:42,013 - logs... - INFO - Start print log
+2022-07-31 08:05:42,014 - logs... - DEBUG - Do something
+2022-07-31 08:05:42,014 - logs... - WARNING - Something maybe fail.
+2022-07-31 08:05:42,014 - logs... - INFO - Finish
+2022-07-31 08:05:42,107 - logs... - INFO - zip report name:20220731_080542api_report.zip
+2022-07-31 08:05:42,108 - logs... - INFO - xml report path:/Users/fumengjiao/work/python3_10/api_AUTO/allure-report
+2022-07-31 08:26:06,030 - logs... - INFO - Start print log
+2022-07-31 08:26:06,031 - logs... - DEBUG - Do something
+2022-07-31 08:26:06,031 - logs... - WARNING - Something maybe fail.
+2022-07-31 08:26:06,031 - logs... - INFO - Finish
+2022-07-31 08:28:46,156 - logs... - INFO - Start print log
+2022-07-31 08:28:46,156 - logs... - DEBUG - Do something
+2022-07-31 08:28:46,156 - logs... - WARNING - Something maybe fail.
+2022-07-31 08:28:46,157 - logs... - INFO - Finish
+2022-07-31 08:44:55,343 - logs... - INFO - Start print log
+2022-07-31 08:44:55,343 - logs... - DEBUG - Do something
+2022-07-31 08:44:55,343 - logs... - WARNING - Something maybe fail.
+2022-07-31 08:44:55,344 - logs... - INFO - Finish
+2022-07-31 08:46:39,224 - logs... - INFO - Start print log
+2022-07-31 08:46:39,224 - logs... - DEBUG - Do something
+2022-07-31 08:46:39,225 - logs... - WARNING - Something maybe fail.
+2022-07-31 08:46:39,225 - logs... - INFO - Finish
+2022-07-31 08:47:32,628 - logs... - INFO - Start print log
+2022-07-31 08:47:32,628 - logs... - DEBUG - Do something
+2022-07-31 08:47:32,628 - logs... - WARNING - Something maybe fail.
+2022-07-31 08:47:32,628 - logs... - INFO - Finish
+2022-07-31 08:48:34,829 - logs... - INFO - Start print log
+2022-07-31 08:48:34,829 - logs... - DEBUG - Do something
+2022-07-31 08:48:34,829 - logs... - WARNING - Something maybe fail.
+2022-07-31 08:48:34,829 - logs... - INFO - Finish
+2022-07-31 08:49:27,884 - logs... - INFO - Start print log
+2022-07-31 08:49:27,885 - logs... - DEBUG - Do something
+2022-07-31 08:49:27,885 - logs... - WARNING - Something maybe fail.
+2022-07-31 08:49:27,885 - logs... - INFO - Finish
+2022-07-31 08:49:28,024 - logs... - INFO - zip report name:20220731_084928api_report.zip
+2022-07-31 08:49:28,024 - logs... - INFO - xml report path:/Users/fumengjiao/work/python3_10/api_AUTO/allure-report
+2022-07-31 09:13:30,134 - logs... - INFO - Start print log
+2022-07-31 09:13:30,136 - logs... - DEBUG - Do something
+2022-07-31 09:13:30,136 - logs... - WARNING - Something maybe fail.
+2022-07-31 09:13:30,136 - logs... - INFO - Finish
+2022-07-31 09:13:30,284 - logs... - INFO - zip report name:20220731_091330api_report.zip
+2022-07-31 09:13:30,284 - logs... - INFO - xml report path:/Users/fumengjiao/work/python3_10/api_AUTO/allure-report
+2022-07-31 09:25:33,964 - logs... - INFO - Start print log
+2022-07-31 09:25:33,965 - logs... - DEBUG - Do something
+2022-07-31 09:25:33,965 - logs... - WARNING - Something maybe fail.
+2022-07-31 09:25:33,965 - logs... - INFO - Finish
+2022-07-31 09:25:34,103 - logs... - INFO - zip report name:20220731_092534api_report.zip
+2022-07-31 09:25:34,103 - logs... - INFO - xml report path:/Users/fumengjiao/work/python3_10/api_AUTO/allure-report
+2022-07-31 10:02:14,100 - logs... - INFO - Start print log
+2022-07-31 10:02:14,101 - logs... - DEBUG - Do something
+2022-07-31 10:02:14,101 - logs... - WARNING - Something maybe fail.
+2022-07-31 10:02:14,101 - logs... - INFO - Finish
+2022-07-31 10:03:36,663 - logs... - INFO - Start print log
+2022-07-31 10:03:36,663 - logs... - DEBUG - Do something
+2022-07-31 10:03:36,663 - logs... - WARNING - Something maybe fail.
+2022-07-31 10:03:36,663 - logs... - INFO - Finish
+2022-07-31 10:12:20,461 - logs... - INFO - Start print log
+2022-07-31 10:12:20,462 - logs... - DEBUG - Do something
+2022-07-31 10:12:20,462 - logs... - WARNING - Something maybe fail.
+2022-07-31 10:12:20,462 - logs... - INFO - Finish
+2022-07-31 10:21:59,673 - logs... - INFO - Start print log
+2022-07-31 10:21:59,674 - logs... - DEBUG - Do something
+2022-07-31 10:21:59,674 - logs... - WARNING - Something maybe fail.
+2022-07-31 10:21:59,674 - logs... - INFO - Finish
+2022-07-31 10:23:07,957 - logs... - INFO - Start print log
+2022-07-31 10:23:07,958 - logs... - DEBUG - Do something
+2022-07-31 10:23:07,958 - logs... - WARNING - Something maybe fail.
+2022-07-31 10:23:07,958 - logs... - INFO - Finish
+2022-07-31 10:27:24,271 - logs... - INFO - Start print log
+2022-07-31 10:27:24,271 - logs... - DEBUG - Do something
+2022-07-31 10:27:24,271 - logs... - WARNING - Something maybe fail.
+2022-07-31 10:27:24,271 - logs... - INFO - Finish
+2022-07-31 10:31:04,024 - logs... - INFO - Start print log
+2022-07-31 10:31:04,025 - logs... - DEBUG - Do something
+2022-07-31 10:31:04,025 - logs... - WARNING - Something maybe fail.
+2022-07-31 10:31:04,025 - logs... - INFO - Finish
+2022-07-31 10:32:53,403 - logs... - INFO - Start print log
+2022-07-31 10:32:53,403 - logs... - DEBUG - Do something
+2022-07-31 10:32:53,403 - logs... - WARNING - Something maybe fail.
+2022-07-31 10:32:53,403 - logs... - INFO - Finish
+2022-07-31 10:33:05,652 - logs... - INFO - Start print log
+2022-07-31 10:33:05,653 - logs... - DEBUG - Do something
+2022-07-31 10:33:05,653 - logs... - WARNING - Something maybe fail.
+2022-07-31 10:33:05,653 - logs... - INFO - Finish
+2022-07-31 10:33:22,064 - logs... - INFO - Start print log
+2022-07-31 10:33:22,064 - logs... - DEBUG - Do something
+2022-07-31 10:33:22,064 - logs... - WARNING - Something maybe fail.
+2022-07-31 10:33:22,064 - logs... - INFO - Finish
+2022-07-31 10:33:22,166 - logs... - INFO - zip report name:20220731_103322api_report.zip
+2022-07-31 10:33:22,166 - logs... - INFO - xml report path:/Users/fumengjiao/work/python3_10/api_AUTO/allure-report
+2022-07-31 10:39:21,254 - logs... - INFO - Start print log
+2022-07-31 10:39:21,255 - logs... - DEBUG - Do something
+2022-07-31 10:39:21,255 - logs... - WARNING - Something maybe fail.
+2022-07-31 10:39:21,255 - logs... - INFO - Finish
+2022-07-31 10:39:21,386 - logs... - INFO - zip report name:20220731_103921api_report.zip
+2022-07-31 10:39:21,386 - logs... - INFO - xml report path:/Users/fumengjiao/work/python3_10/api_AUTO/allure-report
+2022-07-31 10:44:56,746 - logs... - INFO - Start print log
+2022-07-31 10:44:56,747 - logs... - DEBUG - Do something
+2022-07-31 10:44:56,747 - logs... - WARNING - Something maybe fail.
+2022-07-31 10:44:56,747 - logs... - INFO - Finish
+2022-07-31 14:15:44,096 - logs... - INFO - Start print log
+2022-07-31 14:15:44,097 - logs... - DEBUG - Do something
+2022-07-31 14:15:44,097 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:15:44,097 - logs... - INFO - Finish
+2022-07-31 14:22:46,168 - logs... - INFO - Start print log
+2022-07-31 14:22:46,169 - logs... - DEBUG - Do something
+2022-07-31 14:22:46,169 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:22:46,169 - logs... - INFO - Finish
+2022-07-31 14:26:51,685 - logs... - INFO - Start print log
+2022-07-31 14:26:51,686 - logs... - DEBUG - Do something
+2022-07-31 14:26:51,686 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:26:51,686 - logs... - INFO - Finish
+2022-07-31 14:27:34,257 - logs... - INFO - Start print log
+2022-07-31 14:27:34,257 - logs... - DEBUG - Do something
+2022-07-31 14:27:34,257 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:27:34,258 - logs... - INFO - Finish
+2022-07-31 14:28:09,541 - logs... - INFO - Start print log
+2022-07-31 14:28:09,542 - logs... - DEBUG - Do something
+2022-07-31 14:28:09,542 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:28:09,542 - logs... - INFO - Finish
+2022-07-31 14:29:26,623 - logs... - INFO - Start print log
+2022-07-31 14:29:26,623 - logs... - DEBUG - Do something
+2022-07-31 14:29:26,623 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:29:26,623 - logs... - INFO - Finish
+2022-07-31 14:30:20,393 - logs... - INFO - Start print log
+2022-07-31 14:30:20,394 - logs... - DEBUG - Do something
+2022-07-31 14:30:20,394 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:30:20,394 - logs... - INFO - Finish
+2022-07-31 14:37:18,734 - logs... - INFO - Start print log
+2022-07-31 14:37:18,734 - logs... - DEBUG - Do something
+2022-07-31 14:37:18,734 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:37:18,734 - logs... - INFO - Finish
+2022-07-31 14:37:39,778 - logs... - INFO - Start print log
+2022-07-31 14:37:39,778 - logs... - DEBUG - Do something
+2022-07-31 14:37:39,778 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:37:39,778 - logs... - INFO - Finish
+2022-07-31 14:38:06,573 - logs... - INFO - Start print log
+2022-07-31 14:38:06,574 - logs... - DEBUG - Do something
+2022-07-31 14:38:06,574 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:38:06,574 - logs... - INFO - Finish
+2022-07-31 14:39:36,568 - logs... - INFO - Start print log
+2022-07-31 14:39:36,568 - logs... - DEBUG - Do something
+2022-07-31 14:39:36,568 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:39:36,568 - logs... - INFO - Finish
+2022-07-31 14:41:53,314 - logs... - INFO - Start print log
+2022-07-31 14:41:53,315 - logs... - DEBUG - Do something
+2022-07-31 14:41:53,315 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:41:53,315 - logs... - INFO - Finish
+2022-07-31 14:44:27,164 - logs... - INFO - Start print log
+2022-07-31 14:44:27,164 - logs... - DEBUG - Do something
+2022-07-31 14:44:27,165 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:44:27,165 - logs... - INFO - Finish
+2022-07-31 14:47:30,897 - logs... - INFO - Start print log
+2022-07-31 14:47:30,898 - logs... - DEBUG - Do something
+2022-07-31 14:47:30,898 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:47:30,898 - logs... - INFO - Finish
+2022-07-31 14:47:51,775 - logs... - INFO - Start print log
+2022-07-31 14:47:51,775 - logs... - DEBUG - Do something
+2022-07-31 14:47:51,775 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:47:51,775 - logs... - INFO - Finish
+2022-07-31 14:48:29,763 - logs... - INFO - Start print log
+2022-07-31 14:48:29,763 - logs... - DEBUG - Do something
+2022-07-31 14:48:29,764 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:48:29,764 - logs... - INFO - Finish
+2022-07-31 14:49:53,109 - logs... - INFO - Start print log
+2022-07-31 14:49:53,109 - logs... - DEBUG - Do something
+2022-07-31 14:49:53,109 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:49:53,109 - logs... - INFO - Finish
+2022-07-31 14:56:04,135 - logs... - INFO - Start print log
+2022-07-31 14:56:04,136 - logs... - DEBUG - Do something
+2022-07-31 14:56:04,136 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:56:04,136 - logs... - INFO - Finish
+2022-07-31 14:58:38,415 - logs... - INFO - Start print log
+2022-07-31 14:58:38,416 - logs... - DEBUG - Do something
+2022-07-31 14:58:38,416 - logs... - WARNING - Something maybe fail.
+2022-07-31 14:58:38,416 - logs... - INFO - Finish
+2022-07-31 15:02:10,627 - logs... - INFO - Start print log
+2022-07-31 15:02:10,627 - logs... - DEBUG - Do something
+2022-07-31 15:02:10,627 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:02:10,627 - logs... - INFO - Finish
+2022-07-31 15:05:00,793 - logs... - INFO - Start print log
+2022-07-31 15:05:00,794 - logs... - DEBUG - Do something
+2022-07-31 15:05:00,794 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:05:00,794 - logs... - INFO - Finish
+2022-07-31 15:05:20,413 - logs... - INFO - Start print log
+2022-07-31 15:05:20,413 - logs... - DEBUG - Do something
+2022-07-31 15:05:20,413 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:05:20,413 - logs... - INFO - Finish
+2022-07-31 15:07:21,681 - logs... - INFO - Start print log
+2022-07-31 15:07:21,682 - logs... - DEBUG - Do something
+2022-07-31 15:07:21,682 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:07:21,682 - logs... - INFO - Finish
+2022-07-31 15:08:29,517 - logs... - INFO - Start print log
+2022-07-31 15:08:29,518 - logs... - DEBUG - Do something
+2022-07-31 15:08:29,518 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:08:29,518 - logs... - INFO - Finish
+2022-07-31 15:09:10,206 - logs... - INFO - Start print log
+2022-07-31 15:09:10,207 - logs... - DEBUG - Do something
+2022-07-31 15:09:10,207 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:09:10,207 - logs... - INFO - Finish
+2022-07-31 15:09:57,607 - logs... - INFO - Start print log
+2022-07-31 15:09:57,607 - logs... - DEBUG - Do something
+2022-07-31 15:09:57,608 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:09:57,608 - logs... - INFO - Finish
+2022-07-31 15:11:31,401 - logs... - INFO - Start print log
+2022-07-31 15:11:31,401 - logs... - DEBUG - Do something
+2022-07-31 15:11:31,401 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:11:31,402 - logs... - INFO - Finish
+2022-07-31 15:12:01,255 - logs... - INFO - Start print log
+2022-07-31 15:12:01,256 - logs... - DEBUG - Do something
+2022-07-31 15:12:01,256 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:12:01,256 - logs... - INFO - Finish
+2022-07-31 15:12:36,879 - logs... - INFO - Start print log
+2022-07-31 15:12:36,879 - logs... - DEBUG - Do something
+2022-07-31 15:12:36,880 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:12:36,880 - logs... - INFO - Finish
+2022-07-31 15:13:32,631 - logs... - INFO - Start print log
+2022-07-31 15:13:32,631 - logs... - DEBUG - Do something
+2022-07-31 15:13:32,631 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:13:32,631 - logs... - INFO - Finish
+2022-07-31 15:14:20,254 - logs... - INFO - Start print log
+2022-07-31 15:14:20,255 - logs... - DEBUG - Do something
+2022-07-31 15:14:20,255 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:14:20,255 - logs... - INFO - Finish
+2022-07-31 15:15:06,012 - logs... - INFO - Start print log
+2022-07-31 15:15:06,012 - logs... - DEBUG - Do something
+2022-07-31 15:15:06,012 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:15:06,013 - logs... - INFO - Finish
+2022-07-31 15:16:26,487 - logs... - INFO - Start print log
+2022-07-31 15:16:26,487 - logs... - DEBUG - Do something
+2022-07-31 15:16:26,488 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:16:26,488 - logs... - INFO - Finish
+2022-07-31 15:16:37,032 - logs... - INFO - Start print log
+2022-07-31 15:16:37,033 - logs... - DEBUG - Do something
+2022-07-31 15:16:37,033 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:16:37,033 - logs... - INFO - Finish
+2022-07-31 15:17:34,997 - logs... - INFO - Start print log
+2022-07-31 15:17:34,997 - logs... - DEBUG - Do something
+2022-07-31 15:17:34,997 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:17:34,997 - logs... - INFO - Finish
+2022-07-31 15:20:04,785 - logs... - INFO - Start print log
+2022-07-31 15:20:04,786 - logs... - DEBUG - Do something
+2022-07-31 15:20:04,786 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:20:04,786 - logs... - INFO - Finish
+2022-07-31 15:20:47,402 - logs... - INFO - Start print log
+2022-07-31 15:20:47,402 - logs... - DEBUG - Do something
+2022-07-31 15:20:47,402 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:20:47,402 - logs... - INFO - Finish
+2022-07-31 15:46:34,273 - logs... - INFO - Start print log
+2022-07-31 15:46:34,274 - logs... - DEBUG - Do something
+2022-07-31 15:46:34,274 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:46:34,274 - logs... - INFO - Finish
+2022-07-31 15:53:20,083 - logs... - INFO - Start print log
+2022-07-31 15:53:20,085 - logs... - DEBUG - Do something
+2022-07-31 15:53:20,085 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:53:20,085 - logs... - INFO - Finish
+2022-07-31 15:55:48,490 - logs... - INFO - Start print log
+2022-07-31 15:55:48,490 - logs... - DEBUG - Do something
+2022-07-31 15:55:48,490 - logs... - WARNING - Something maybe fail.
+2022-07-31 15:55:48,490 - logs... - INFO - Finish
+2022-07-31 16:02:44,029 - logs... - INFO - Start print log
+2022-07-31 16:02:44,030 - logs... - DEBUG - Do something
+2022-07-31 16:02:44,030 - logs... - WARNING - Something maybe fail.
+2022-07-31 16:02:44,030 - logs... - INFO - Finish
+2022-07-31 16:03:50,554 - logs... - INFO - Start print log
+2022-07-31 16:03:50,556 - logs... - DEBUG - Do something
+2022-07-31 16:03:50,557 - logs... - WARNING - Something maybe fail.
+2022-07-31 16:03:50,557 - logs... - INFO - Finish
+2022-07-31 16:09:34,104 - logs... - INFO - Start print log
+2022-07-31 16:09:34,105 - logs... - DEBUG - Do something
+2022-07-31 16:09:34,105 - logs... - WARNING - Something maybe fail.
+2022-07-31 16:09:34,105 - logs... - INFO - Finish
+2022-07-31 16:12:00,381 - logs... - INFO - Start print log
+2022-07-31 16:12:00,382 - logs... - DEBUG - Do something
+2022-07-31 16:12:00,382 - logs... - WARNING - Something maybe fail.
+2022-07-31 16:12:00,382 - logs... - INFO - Finish
+2022-07-31 16:12:46,203 - logs... - INFO - Start print log
+2022-07-31 16:12:46,203 - logs... - DEBUG - Do something
+2022-07-31 16:12:46,204 - logs... - WARNING - Something maybe fail.
+2022-07-31 16:12:46,204 - logs... - INFO - Finish
+2022-07-31 16:14:19,358 - logs... - INFO - Start print log
+2022-07-31 16:14:19,359 - logs... - DEBUG - Do something
+2022-07-31 16:14:19,359 - logs... - WARNING - Something maybe fail.
+2022-07-31 16:14:19,359 - logs... - INFO - Finish
+2022-07-31 16:14:19,512 - logs... - INFO - zip report name:20220731_161419api_report.zip
+2022-07-31 16:14:19,512 - logs... - INFO - xml report path:/Users/fumengjiao/work/python3_10/api_AUTO/allure-report
+2022-07-31 19:42:02,122 - logs... - INFO - Start print log
+2022-07-31 19:42:02,123 - logs... - DEBUG - Do something
+2022-07-31 19:42:02,123 - logs... - WARNING - Something maybe fail.
+2022-07-31 19:42:02,123 - logs... - INFO - Finish

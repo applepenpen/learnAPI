@@ -1,0 +1,16 @@
+2022-08-05 22:06:48,095 - logs... - INFO - Start print log
+2022-08-05 22:06:48,096 - logs... - DEBUG - Do something
+2022-08-05 22:06:48,096 - logs... - WARNING - Something maybe fail.
+2022-08-05 22:06:48,096 - logs... - INFO - Finish
+2022-08-05 22:51:40,094 - logs... - INFO - Start print log
+2022-08-05 22:51:40,095 - logs... - DEBUG - Do something
+2022-08-05 22:51:40,095 - logs... - WARNING - Something maybe fail.
+2022-08-05 22:51:40,095 - logs... - INFO - Finish
+2022-08-05 22:51:40,220 - logs... - INFO - zip report name:20220805_225140api_report.zip
+2022-08-05 22:51:40,220 - logs... - INFO - xml report path:/Users/fumengjiao/work/python3_10/api_AUTO/allure-report
+2022-08-05 22:55:25,844 - logs... - INFO - Start print log
+2022-08-05 22:55:25,845 - logs... - DEBUG - Do something
+2022-08-05 22:55:25,845 - logs... - WARNING - Something maybe fail.
+2022-08-05 22:55:25,845 - logs... - INFO - Finish
+2022-08-05 22:55:25,939 - logs... - INFO - zip report name:20220805_225525api_report.zip
+2022-08-05 22:55:25,939 - logs... - INFO - xml report path:/Users/fumengjiao/work/python3_10/api_AUTO/allure-report

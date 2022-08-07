@@ -1,0 +1,137 @@
+{
+  "f67cf0e9fabad675e9e00fe3d44d0bba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7bdc725bbfc3e84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659711329783,
+        "stop" : 1659711329783,
+        "duration" : 0
+      }
+    } ]
+  },
+  "03c9634f7d6799fa7110db935badf250" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "135b6594a374aa4d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659711329133,
+        "stop" : 1659711329501,
+        "duration" : 368
+      }
+    } ]
+  },
+  "ac4d6ba904c340732929a2cdac7d861d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "347a88e0aca7fcf7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659711329781,
+        "stop" : 1659711329781,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3cc5fe7a6619d05853d528470eddf878" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f76db1efec6869e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659711328299,
+        "stop" : 1659711328779,
+        "duration" : 480
+      }
+    } ]
+  },
+  "1c97dbb049ac1d7eceb404432c6ee00f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "32ac4e128062761c",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('self', <SubRequest 'get_token' for <TestCaseFunction test_logout_success>>)",
+      "time" : {
+        "start" : 1659235163759,
+        "stop" : 1659235163759,
+        "duration" : 0
+      }
+    } ]
+  },
+  "bc14a0baa35316e6d0450892195a5326" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1ec4de5cc5165c7b",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Test_round' object has no attribute 'token'",
+      "time" : {
+        "start" : 1659711329504,
+        "stop" : 1659711329735,
+        "duration" : 231
+      }
+    } ]
+  },
+  "4ba9ae03880cb7e29d1390a95de11d89" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3bd6a652a9a05f42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1659711328783,
+        "stop" : 1659711329129,
+        "duration" : 346
+      }
+    } ]
+  }
+}

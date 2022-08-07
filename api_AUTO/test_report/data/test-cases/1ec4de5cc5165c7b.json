@@ -1,0 +1,143 @@
+{
+  "uid" : "1ec4de5cc5165c7b",
+  "name" : "根据roundID获取场次详情",
+  "fullName" : "test_cases.test_round.Test_round#test_round_xianchang",
+  "historyId" : "bc14a0baa35316e6d0450892195a5326",
+  "time" : {
+    "start" : 1659711329504,
+    "stop" : 1659711329735,
+    "duration" : 231
+  },
+  "status" : "broken",
+  "statusMessage" : "AttributeError: 'Test_round' object has no attribute 'token'",
+  "statusTrace" : "self = <api_AUTO.test_cases.test_round.Test_round object at 0x1083a9060>\n\n    @allure.title('根据roundID获取场次详情')\n    def test_round_xianchang(self):\n        case_name='根据roundID获取场次详情'\n        #首先根据case name 当前获取行号\n        row_num=OperateExcel().get_row_by_case_name(case_name)\n        # print(row_num)\n        # url=self.base_url+GetData().get_request_url(row_num)\n        #根据行号，获取接口对应的接口信息\n        case_id=GetData().case_id(row_num)\n        case_name=GetData().case_name(row_num)\n        get_request_url=GetData().get_request_url(row_num)\n        is_run=GetData().is_run(row_num)\n        get_request_method=GetData().get_request_method(row_num)\n        is_header=GetData().is_header(row_num)\n        depend_id=GetData().depend_id(row_num)\n        depend_data=GetData().depend_data(row_num)\n        depend_value=GetData().depend_value(row_num)\n        get_request_body=GetData().get_request_body(row_num)\n        get_request_result=GetData().get_request_result(row_num)\n        get_request_except=GetData().get_request_except(row_num)\n    \n        header = GetData().get_header(row_num)\n        # print(header)\n        data=GetData().get_request_json(row_num)\n        # print(data)\n>       header['Souche-Security-Token']=self.token\nE       AttributeError: 'Test_round' object has no attribute 'token'\n\ntest_cases/test_round.py:224: AttributeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "get_token",
+    "time" : {
+      "start" : 1659711328298,
+      "stop" : 1659711328298,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_xunit_setup_class_fixture_Test_round",
+    "time" : {
+      "start" : 1659711328298,
+      "stop" : 1659711328298,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "get_token::0",
+    "time" : {
+      "start" : 1659711329779,
+      "stop" : 1659711329779,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "_xunit_setup_class_fixture_Test_round::0",
+    "time" : {
+      "start" : 1659711329778,
+      "stop" : 1659711329778,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "场次管理"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_round"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_round"
+  }, {
+    "name" : "host",
+    "value" : "186590e05d27"
+  }, {
+    "name" : "thread",
+    "value" : "36432-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_round"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e0a1a5cfcd98ff3a",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('self', <SubRequest 'get_token' for <TestCaseFunction test_round_xianchang>>)",
+      "time" : {
+        "start" : 1659235163777,
+        "stop" : 1659235163777,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9c95de5d774ef8df",
+      "status" : "broken",
+      "statusDetails" : "_pytest.fixtures.FixtureLookupError: ('self', <SubRequest 'get_token' for <TestCaseFunction test_round_xianchang>>)",
+      "time" : {
+        "start" : 1659234804335,
+        "stop" : 1659234804335,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "1ec4de5cc5165c7b.json",
+  "parameterValues" : [ ]
+}

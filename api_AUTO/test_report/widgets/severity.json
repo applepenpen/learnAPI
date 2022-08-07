@@ -1,0 +1,71 @@
+[ {
+  "uid" : "1ec4de5cc5165c7b",
+  "name" : "根据roundID获取场次详情",
+  "time" : {
+    "start" : 1659711329504,
+    "stop" : 1659711329735,
+    "duration" : 231
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "347a88e0aca7fcf7",
+  "name" : "test_data[testdata0]",
+  "time" : {
+    "start" : 1659711329781,
+    "stop" : 1659711329781,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f76db1efec6869e",
+  "name" : "test_round_num",
+  "time" : {
+    "start" : 1659711328299,
+    "stop" : 1659711328779,
+    "duration" : 480
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bd6a652a9a05f42",
+  "name" : "场次列表筛选接口测试",
+  "time" : {
+    "start" : 1659711328783,
+    "stop" : 1659711329129,
+    "duration" : 346
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "135b6594a374aa4d",
+  "name" : "场次列表筛选接口测试",
+  "time" : {
+    "start" : 1659711329133,
+    "stop" : 1659711329501,
+    "duration" : 368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32ac4e128062761c",
+  "name" : "test_logout_success",
+  "time" : {
+    "start" : 1659235163759,
+    "stop" : 1659235163759,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c7bdc725bbfc3e84",
+  "name" : "test_data[testdata1]",
+  "time" : {
+    "start" : 1659711329783,
+    "stop" : 1659711329783,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
